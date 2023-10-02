@@ -27,6 +27,9 @@ ro.vendor.display.sensortype=2
 # fastbootd
 ro.fastbootd.available=true
 
+# Face Unlock
+ro.face.moto_unlock_service.cam_id=5
+
 # Graphics
 debug.sf.early_app_phase_offset_ns=500000
 debug.sf.early_gl_app_phase_offset_ns=15000000
