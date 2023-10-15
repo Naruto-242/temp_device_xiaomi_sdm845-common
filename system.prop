@@ -55,6 +55,9 @@ media.settings.xml=/vendor/etc/media_profiles_vendor.xml
 # Memory optimizations
 ro.vendor.qti.sys.fw.bservice_enable=true
 
+# Paranoid Sense
+ro.face.sense_service.camera_id=5
+
 # QC framework value-adds
 ro.vendor.qti.va_aosp.support=1
 
