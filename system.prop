@@ -11,6 +11,8 @@ ro.bluetooth.a2dp_offload.supported=true
 
 # Camera
 camera.disable_zsl_mode=true
+vendor.camera.aux.packagelist=com.android.camera,co.aospa.sense,org.lineageos.aperture
+
 
 # Data modules
 persist.data.df.dev_name=rmnet_usb0
