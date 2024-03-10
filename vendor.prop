@@ -105,6 +105,9 @@ vendor.qcom.bluetooth.soc=cherokee
 # Camera
 vendor.camera.aux.packagelist=com.android.camera,org.codeaurora.snapcam,org.lineageos.aperture,co.aospa.sense
 
+# Charger
+ro.charger.enable_suspend=true
+
 # Chipset
 ro.soc.manufacturer=Qualcomm
 ro.soc.model=SDM845
